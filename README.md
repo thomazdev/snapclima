@@ -1,6 +1,6 @@
 # Snap Clima
 
-Uma aplicação onde podemos visualizar clima em tempo real onde você estiver usando sua localização atual. usando consumo de API do open weather 
+Uma aplicação onde podemos visualizar clima em tempo real onde você estiver usando sua localização atual. usando consumo de API do [Open Weather](https://openweathermap.org/) 
 
 ![Logo](https://i.ibb.co/j4kLBxg/Capturar.png)
 
@@ -13,3 +13,8 @@ Uma aplicação onde podemos visualizar clima em tempo real onde você estiver u
 - Javascript
 
 - Consumo de API
+
+## Links
+
+ - [Visualizar projeto](https://thomazdev.github.io/snapclima/)
+
